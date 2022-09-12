@@ -6,7 +6,7 @@ function main() {
         margin: 0px;
     }
     .block-properties .tag {
-        color: var(--ls-secondary-text-color);
+        color: var(--ls-secondary-text-color) !important;
     }
     .block-properties .page-reference .bracket {
         display: none;
