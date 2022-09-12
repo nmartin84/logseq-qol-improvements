@@ -9,7 +9,7 @@ function main() {
         font-weight: 700;
     }
     .color-level .block-properties {
-        background: transparent;
+        background: transparent !important;
     }
 
     `);
