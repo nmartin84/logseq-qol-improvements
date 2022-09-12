@@ -1,0 +1,11 @@
+{
+  "name": "QOL Improvements",
+  "author": "nmartin84",
+  "version": "0.1.0",
+  "description": "tag a parent block with \"#admon-info{warning,tips,failure,danger,quote} to start\"",
+  "main": "./index.html",
+  "logseq": {
+    "id": "qolimp_006574",
+    "icon": "icon.png"
+  }
+}
