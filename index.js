@@ -7,7 +7,6 @@ function main() {
     }
     .page-property-key {
         font-weight: 700;
-        text-transform: capitalize;
     }
     .color-level .block-properties {
         background: transparent;
