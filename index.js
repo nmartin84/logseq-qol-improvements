@@ -5,6 +5,9 @@ function main() {
         padding: 0px;
         margin: 0px;
     }
+    .block-properties .page-reference .bracket {
+        display: none;
+    }
     .page-property-key {
         font-weight: 700;
     }
