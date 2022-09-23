@@ -8,6 +8,9 @@ function main() {
     .block-properties .tag {
         color: var(--ls-secondary-text-color) !important;
     }
+    .block-properties .tag:hover {
+        color: var(--ls-active-primary-color);
+    }
     .block-properties .page-reference .bracket {
         display: none;
     }
