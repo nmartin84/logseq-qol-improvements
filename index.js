@@ -6,7 +6,7 @@ function main() {
         margin: 0px;
     }
     .block-properties .tag {
-        color: var(--ls-secondary-text-color) !important;
+        color: var(--ls-secondary-text-color);
     }
     .block-properties .tag:hover {
         color: var(--ls-active-primary-color);
