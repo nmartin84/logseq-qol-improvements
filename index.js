@@ -4,6 +4,7 @@ function main() {
         background: transparent;
         padding: 0px;
         margin: 0px;
+        border: 0px solid !important;
     }
     .block-properties .tag {
         color: var(--ls-secondary-text-color);
@@ -15,7 +16,11 @@ function main() {
         display: none;
     }
     .page-property-key {
+        color: var(--ls-primary-text-color) !important;
         font-weight: 700;
+    }
+    .block-properties > div > .mr-1:not(.inline) {
+        color: var(--ls-primary-text-color) !important;
     }
     .page-property-key:hover {
         background: #e4f2ff !important;
