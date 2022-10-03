@@ -6,9 +6,6 @@ function main() {
         margin: 0px;
         border: 0px solid !important;
     }
-    .block-properties .tag {
-        color: var(--ls-secondary-text-color);
-    }
     .block-properties .tag:hover {
         color: var(--ls-active-primary-color);
     }
